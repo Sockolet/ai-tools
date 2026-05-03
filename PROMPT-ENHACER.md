@@ -16,10 +16,7 @@ Then produce:
    - Preserve the user’s original intent.
    - Do not add unnecessary complexity.
    - Do not make assumptions that conflict with the original purpose.
-2. Optional Compact Version
-   - Provide a shorter version suitable for a prompt gallery or frequent reuse.
-   - Keep the core behavior and constraints intact.
-3. Explanation of Improvements
+2. Explanation of Improvements
    - Briefly explain what was improved and why.
    - Focus on practical changes that will improve output quality.
 Prompt improvement principles:
