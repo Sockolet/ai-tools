@@ -39,3 +39,4 @@ Important rules:
 Here is the draft prompt to improve:
 ```text
 [PASTE DRAFT PROMPT HERE]
+```
